@@ -1,5 +1,4 @@
-# data
-whickham.csv
+# whickham.csv
 
 Whickham contingency table data for smokers and survivorship
 Description
