@@ -24,27 +24,25 @@ Example of Simpson's Paradox,” The American Statistician, 50, 340-341.
 1994~1995년 미국 주별 교육 관련 데이터 
 
 state  
-- Name of state
+- 주 이름
 
 expenditure  
-- Current expenditure per pupil in average daily attendance in public elementary and secondary schools, 1994-95 (in thousands of dollars)
+- 초중등 공립학교의 학생 1인당 경상 지출비 (단위: 1,000 달러)
             
 average_pupil
-- Average pupil/teacher ratio in public elementary and secondary schools, Fall 1994
+- 교사 2인당 학생 수 
 
 annual_salary  
-- Estimated average annual salary of teachers in public 
-            elementary and secondary schools, 1994-95 (in thousands of 
-            dollars)
+- 교사 평균 연봉 (단위: 1,000 달러)
 
 SAT_percentage   
-- Percentage of all eligible students taking the SAT, 1994-95
+- SAT 응시자 비율
 
 SAT_verbal  
-- Average verbal SAT score, 1994-95
+- SAT 언어 점수
 
 SAT_math  
-- Average math SAT score, 1994-95
+- SAT 수학 점수
 
 SAT_total  
-- Average total score on the SAT, 1994-95 
+- SAT 총점
