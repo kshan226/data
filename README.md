@@ -17,3 +17,34 @@ count
 
 참조: Appleton, D. R., French, J. M., and Vanderpump, M.P. (1996), "Ignoring a Covariate: An
 Example of Simpson's Paradox,” The American Statistician, 50, 340-341.
+
+
+# teacher_salary.csv
+
+1994~1995년 미국 주별 교육 관련 데이터 
+
+state  
+- Name of state
+
+expenditure  
+- Current expenditure per pupil in average daily attendance in public elementary and secondary schools, 1994-95 (in thousands of dollars)
+            
+average_pupil
+- Average pupil/teacher ratio in public elementary and secondary schools, Fall 1994
+
+annual_salary  
+- Estimated average annual salary of teachers in public 
+            elementary and secondary schools, 1994-95 (in thousands of 
+            dollars)
+
+SAT_percentage   
+- Percentage of all eligible students taking the SAT, 1994-95
+
+SAT_verbal  
+- Average verbal SAT score, 1994-95
+
+SAT_math  
+- Average math SAT score, 1994-95
+
+SAT_total  
+- Average total score on the SAT, 1994-95 
