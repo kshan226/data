@@ -14,7 +14,7 @@
 Example of Simpson's Paradox,” The American Statistician, 50, 340-341.
 
 
-# teacher_salary.csv
+# sat_salary.csv
 
 1994~1995년 미국의 주 별 교육 데이터 
 
