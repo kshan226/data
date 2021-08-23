@@ -1,22 +1,19 @@
 # whickham.csv
 
-Whickham contingency table data for smokers and survivorship
-Description
-Appleton et al. (1996) summarized a study from the Whickham district of England to quantify the association of smoking, age, and death. 1,314 women were interviewed in the early 1970s with respect to their smoking habits. Twenty years later the women were relocated and classified with respect to survival at the time of the follow up (yes or no), whether they smoked at the time of the original interview (yes or no), and age at the time of the original study (1 = 18-24, 2 = 35-64, 3 = >65).
-
-Usage
-data(whickham)
-Format
-A data frame with 12 observations on the following 4 variables.
+1970년대초 영국 햄프셔의 위컴 마을에 사는 1,314명의 여성을 대상으로 흡연여부, 나이를 조사하였다.
+20년이 지난 후 이 여성들의 생존여부를 다시 조사하였다.
 
 age
-A factor with levels 1 2 3.
+1 = 18-24, 2 = 35-64, 3 = >65
 
 survival
-A factor with levels N Y.
+생존 여부: N, Y
 
 smoke
-A factor with levels N Y.
+흡연 여부: N, Y
 
 count
-Cross-classification count.
+빈도 수
+
+참조: Appleton, D. R., French, J. M., and Vanderpump, M.P. (1996), "Ignoring a Covariate: An
+Example of Simpson's Paradox,” The American Statistician, 50, 340-341.
