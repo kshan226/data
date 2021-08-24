@@ -29,6 +29,10 @@ Example of Simpson's Paradox,” The American Statistician, 50, 340-341.
 |SAT_math  | SAT 수학 점수|
 |SAT_total  | SAT 총점|
 
+참조: Guber, D. L. (1999), "Getting What You Pay for: The Debate over Equity in Public School
+Expenditures,” Journal of Statistics Education, 7. Available online at
+http://www.amstat.org/publications/jse/secure/v7n2/datasets.guber.cfm
+
 # cola_calcium.csv
 
 다이어트 콜라는 여성의 칼슘에 어떤 영향을 끼칠까? 실험에 자원한 16명의 건강한 여성을 무작위로 두 그룹으로 나누었다. 각 그룹은 24온스(약 680 ml)의 물 또는 다이터트 콜라를 마시게 하였다. 3시간이 지난 후 소변에 포함된 칼슘(단위: mg)의 양을 측정하였다. 
