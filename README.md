@@ -30,8 +30,7 @@ Example of Simpson's Paradox,” The American Statistician, 50, 340-341.
 |SAT_total  | SAT 총점|
 
 참조: Guber, D. L. (1999), "Getting What You Pay for: The Debate over Equity in Public School
-Expenditures,” Journal of Statistics Education, 7. Available online at
-http://www.amstat.org/publications/jse/secure/v7n2/datasets.guber.cfm
+Expenditures,” Journal of Statistics Education, 7.
 
 # cola_calcium.csv
 
