@@ -6,8 +6,8 @@
 | 변수| 설명 |
 |---| --- |
 |age  | 1 = 18-24세, 2 = 35-64세, 3 = 65세 이상|
-|survival  | N (사망), Y (생존)|
-|smoke  | N (비흡연), Y (흡연)|
+|survival  | Y (생존), N (사망) |
+|smoke  | Y (흡연), N (비흡연) |
 |count  | 빈도|
 
 참조: Appleton, D. R., French, J. M., and Vanderpump, M.P. (1996), "Ignoring a Covariate: An
