@@ -34,7 +34,7 @@ Expenditures,” Journal of Statistics Education, 7.
 
 # cola_calcium.csv
 
-다이어트 콜라는 여성의 칼슘에 어떤 영향을 끼칠까? 실험에 자원한 16명의 건강한 여성을 무작위로 두 그룹으로 나누었다. 각 그룹은 24온스(약 680 ml)의 물 또는 다이터트 콜라를 마시게 하였다. 3시간이 지난 후 소변에 포함된 칼슘(단위: mg)의 양을 측정하였다. 
+여성이 다이어트 콜라를 마시면 칼슘을 많이 배출될까? 실험에 자원한 16명의 건강한 여성을 무작위로 두 그룹으로 나누었다. 각 그룹은 24온스(약 680 ml)의 물 또는 다이터트 콜라를 마시게 하였다. 3시간이 지난 후 소변에 포함된 칼슘(단위: mg)의 양을 측정하였다. 낮은 칼슘 농도는 골다공증 위험과 관련이 있다. 
 
 참조: Larson, N. S., Amin, R., Olsen, C., and Poth, M. A. (2010), “Effect of Diet Cola on Urine
 Calcium Excretion,” Endocrine Reviews – Endo 2010 Abstracts, 31, S1070.
