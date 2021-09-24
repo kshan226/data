@@ -1,4 +1,4 @@
-# baseball.player.csv
+# baseball.csv
 
 1982~2013년 사이 은퇴한 한국 프로야구 선수 1493명에 대한 정보이다.
 
