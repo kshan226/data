@@ -13,7 +13,7 @@
 |end_year  | 선수로 출장한 마지막 경기 |
 |career  | 프로선수로 활동한 기간(단위: 년)  |
 |games  | 출장한 경기 수  |
-|goals |  |
+|goals | 득점 |
 |assist | 어시스트(득점자에게 마지막으로 준 패스) |
 |birth_month | 태어난 달 |
 
