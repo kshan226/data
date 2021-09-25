@@ -6,11 +6,12 @@
 |---| --- |
 | name |이름 |
 | birth |생년월일   |
+| position | 포지션(FW:공격수, MF:미드필더, DF:수비수, GK:골키퍼)   |
 | height  | 키(단위: cm) |
 | weight | 몸무게(단위: kg) |
 |start_year | 프로팀에 처음 입단한 연도 |
-|end_year은퇴연도  | 선수로 출장한 마지막 경기 |
-|career활동기간  | 프로선수로 활동한 기간(단위: 년)  |
+|end_year  | 선수로 출장한 마지막 경기 |
+|career  | 프로선수로 활동한 기간(단위: 년)  |
 |games  | 출장한 경기 수  |
 |goals |  |
 |assist | 어시스트(득점자에게 마지막으로 준 패스) |
